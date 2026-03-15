@@ -8,8 +8,7 @@
 
 * [ ] **Brandon's Success Story**
   https://tryhackme.com/r/resources/blog/brandons-success-story
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 ⬜ [ ] → Not read yet
 
 ☑ [x] → Article completed
